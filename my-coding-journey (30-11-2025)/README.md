@@ -34,13 +34,13 @@ By the middle of 10th grade, I got interested in **low-level programming** and e
 
 To learn about low-level programming, I started with **C**. I learned about memory pointers, memory leaks, and many more fundamentals of low-level programming.
 
-After learning C programming, I bought an ***Arduino Uno Starter Kit*** and started experimenting with it. Eventually, I made a project with it and pushed my [**First Repo**](www.github.com/shubh-io/wakey-wakey-alarm) to GitHub.
+After learning C programming, I bought an ***Arduino Uno Starter Kit*** and started experimenting with it. Eventually, I made a project with it and pushed my [**First Repo**](https://www.github.com/shubh-io/wakey-wakey-alarm) to GitHub.
 
 Eventually, that **spark** for programming hit me again. This time I dove deep into **Python**.
 
-I made my own [Python Application](/work/eyewell) that also has a *Windows MSI installer* in **Jan 2025** and released it **open source (MIT license)** to GitHub.
+I made my own [Python Application](https://www.github.com/shubh-io/eyewell) that also has a *Windows MSI installer* in **Jan 2025** and released it **open source (MIT license)** to GitHub.
 
-After my project [Eyewell](/work/eyewell), I shifted to *Full-Stack Development* around the end of grade 10th.
+After my project [Eyewell](https://www.github.com/shubh-io/eyewell), I shifted to *Full-Stack Development* around the end of grade 10th.
 
 I started with **React Framework** and **Express.js** to learn about full-stack development.
 
@@ -66,11 +66,11 @@ Eventually, I came up with a **SaaS** idea based on a programming education plat
 - **Domain purchase and DNS management for Domain routing**
 - **MongoDB integration and Schema management**
 
-After that *failed SaaS attempt*, I continued my exploration in programming and made a [Waitlist Template For SaaS](/work/waitlist-for-saas), for quick deployment without **wasting time** starting from scratch.
+After that *failed SaaS attempt*, I continued my exploration in programming and made a [Waitlist Template For SaaS](https://www.github.com/shubh-io/waitlist-for-saas), for quick deployment without **wasting time** starting from scratch.
 
 Now, I am learning about **DevOps, System Design, and Cloud Infrastructure**.
 
-I even made my own ***Home-Server*** with old laptops to practice DevOps and basic system designing. Started off with setting up Linux (used ***Debian Bookworm*** Linux distribution in both), used ***SSH*** to connect both, and used my main laptop as a **Load Balancer**. I used the first old laptop which had *HDD* and older CPU as a ***Storage Node*** and the newer laptop which has *eMMC* and better CPU as a ***Performance Node***. I achieved this using **Docker Swarm** and even hosted **N8N** and my [Waitlist Template](/work/waitlist-for-saas) on an old laptop!
+I even made my own ***Home-Server*** with old laptops to practice DevOps and basic system designing. Started off with setting up Linux (used ***Debian Bookworm*** Linux distribution in both), used ***SSH*** to connect both, and used my main laptop as a **Load Balancer**. I used the first old laptop which had *HDD* and older CPU as a ***Storage Node*** and the newer laptop which has *eMMC* and better CPU as a ***Performance Node***. I achieved this using **Docker Swarm** and even hosted **N8N** and my [Waitlist Template](https://www.github.com/shubh-io/waitlist-for-saas) on an old laptop!
 
 **Things I learned from this project:**
 
