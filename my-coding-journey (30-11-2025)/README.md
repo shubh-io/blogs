@@ -1,0 +1,87 @@
+# My Coding Journey
+
+**Published:** 2025-11-30  
+**Tag:** Personal
+
+An overview of my programming journey 
+
+---
+
+
+# The Beginning (6th grade)
+
+I touched my first line of code in **6th grade** when I was experimenting with HTML and CSS during the **COVID-19 lockdown** period.
+
+For me, the curiosity of programming sparked from basic HTML and CSS. Learning how to make a website and style it using CSS was my first introduction to the whole *tech curiosity*.
+
+Fast forward to **8th grade** - schools reopened offline, and I had my first **real** programming touch.
+
+***
+
+# Experimenting with Py and JS (8th grade)
+
+I really loved the concept of **Python scripts** back in 8th grade. I made some text spamming scripts for WhatsApp and overall desktop. It just felt like ***magic*** to me, because I realized how easy it was to automate tasks like spamming with just Python scripts.
+
+Meanwhile, I also experimented with the **opencv** Python package, which had real-time video analysis, including facial and object recognition.
+
+Finally, at the end of 8th grade, I got introduced to **JavaScript** by CodeWithHarry's JavaScript course. **IT REALLY HELPED ME** - the course was detailed, and I started experimenting with basic JavaScript.
+
+***
+
+# Diving Deep Into The Fundamentals (10th grade)
+
+By the middle of 10th grade, I got interested in **low-level programming** and electronics, especially **Arduino Uno**.
+
+To learn about low-level programming, I started with **C**. I learned about memory pointers, memory leaks, and many more fundamentals of low-level programming.
+
+After learning C programming, I bought an ***Arduino Uno Starter Kit*** and started experimenting with it. Eventually, I made a project with it and pushed my [**First Repo**](www.github.com/shubh-io/wakey-wakey-alarm) to GitHub.
+
+Eventually, that **spark** for programming hit me again. This time I dove deep into **Python**.
+
+I made my own [Python Application](/work/eyewell) that also has a *Windows MSI installer* in **Jan 2025** and released it **open source (MIT license)** to GitHub.
+
+After my project [Eyewell](/work/eyewell), I shifted to *Full-Stack Development* around the end of grade 10th.
+
+I started with **React Framework** and **Express.js** to learn about full-stack development.
+
+***
+
+# Current (11th grade)
+
+I started my 11th grade with an introduction to ***Next.js*** Framework. It amazed me how **easy** it was to deploy a web application now with the full application packaged into one server instead of the legacy route of deploying frontend and backend on different servers and connecting both.
+
+After getting used to Next.js, I got to know about **ShadCN UI** component library. This made me realize how **EASY** it is to deploy a website now in comparison to years ago.
+
+Eventually, I came up with a **SaaS** idea based on a programming education platform (quite similar to CodeDex), and obviously, I made a beginner and rookie *mistake* of ***building without ANY validation***.
+
+**I learned a lot from that project, including:**
+
+- **Modern Emotional UI**
+- **Redis Caching**
+- **Error detection and scalable code by learning TypeScript**
+- **Rate limiting**
+- **Email collection**
+- **NextAuth for custom providers like GitHub and Google**
+- **Custom JWT for authentication**
+- **Domain purchase and DNS management for Domain routing**
+- **MongoDB integration and Schema management**
+
+After that *failed SaaS attempt*, I continued my exploration in programming and made a [Waitlist Template For SaaS](/work/waitlist-for-saas), for quick deployment without **wasting time** starting from scratch.
+
+Now, I am learning about **DevOps, System Design, and Cloud Infrastructure**.
+
+I even made my own ***Home-Server*** with old laptops to practice DevOps and basic system designing. Started off with setting up Linux (used ***Debian Bookworm*** Linux distribution in both), used ***SSH*** to connect both, and used my main laptop as a **Load Balancer**. I used the first old laptop which had *HDD* and older CPU as a ***Storage Node*** and the newer laptop which has *eMMC* and better CPU as a ***Performance Node***. I achieved this using **Docker Swarm** and even hosted **N8N** and my [Waitlist Template](/work/waitlist-for-saas) on an old laptop!
+
+**Things I learned from this project:**
+
+- Learned Linux properly for DevOps
+- Load balancing
+- Docker
+- Docker Swarm
+- Next.js app deployment using Docker
+
+***
+
+Now, coming to the end of the blog, I accept my journey isn't ***"perfect"*** or ***"consistent"***.
+
+It was just **RAW** and driven by **CURIOSITY**, nothing else.
